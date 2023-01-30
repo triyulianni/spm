@@ -16,7 +16,7 @@ Macbook users: python3 -m pytest
 
 Note: if there are any issues, please email us at: tybasukie.2020@scis.smu.edu.sg
 
-As user logins have not been implemented, the made the default staff to Staff ID 140003 and HR/Admin to Admin ID 160155.
+As user logins have not been implemented, we made the default staff to Staff ID 140003 and HR/Admin to Admin ID 160155.
 
 
 
